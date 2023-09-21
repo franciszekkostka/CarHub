@@ -9,3 +9,6 @@ The application is intended to enable easy transfer of information about cars in
 - Next.js 13 , React , TypeScript , Tailwind CSS
 - [RapidAPI](https://rapidapi.com/hub) for accesing APIs with data about cars
 - [Imagin Studio](https://www.imagin.studio/) for Car Images
+
+
+### The project was inspired on the basis of the existing website
