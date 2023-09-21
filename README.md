@@ -1,6 +1,6 @@
 # Modern and aesthetic Rental App| React, Next JS 13, TypeScript, Tailwind CSS
 
-![CarsToREADME](https://github.com/franciszekkostka/cars/assets/118021999/39e2ef9c-231e-4460-9f7d-743cdd48e3d7)
+![CarsToREADME](https://github.com/franciszekkostka/CarHub/assets/118021999/4d094e93-a7ad-4a8a-b856-bf6be4bfb5d5)
 
 ## Introduction
 The application is intended to enable easy transfer of information about cars in the form of aesthetic cards
